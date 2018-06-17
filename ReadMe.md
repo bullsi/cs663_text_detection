@@ -1,4 +1,4 @@
-# Text detection in natural images (An implementation of Stroke Width Transform)
+# Text detection in natural images <br/> (An implementation of Stroke Width Transform)
 
 ## How to run
 Run the file ``text_detector.m`` in Matlab.<br/>
