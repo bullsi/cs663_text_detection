@@ -60,14 +60,17 @@ Still, gaps within the leaves (open sky) area are detected as light strokes over
 Following are some output images. Red rectangles indicate dark text over light background and green ones the opposite.
 
 <div align="center">
-<b>Perfect results for basic images (irrespective of font, size and color)</b>
+<div><b>Perfect results for basic images (irrespective of font, size and color)</b></div>
+<div>
 <img src="./results/image00.jpg" alt="drawing" width="300px"/>
 <img src="./results/image01.jpg" alt="drawing" width="300px"/>
+</div>
 </div>
 
 
 <div align="center">
-<b>Results for natural images</b><br/>
+<div><b>Results for natural images</b></div>
+<div>
 <img src="./results/image02.jpg" alt="drawing" width="300px"/>
 <img src="./results/image04.jpg" alt="drawing" width="300px"/>
 <img src="./results/image08.jpg" alt="drawing" width="300px"/>
@@ -77,8 +80,9 @@ Following are some output images. Red rectangles indicate dark text over light b
 <img src="./results/image13.jpg" alt="drawing" width="300px"/>
 <img src="./results/image14.jpg" alt="drawing" width="300px"/>
 </div>
+</div>
 
 ## References
- - **Detecting Text in Natural Scenes with Stroke Width Transform*** by Boris Epshtein, Eyal Ofek and Yonatan Wexler*
- - **Digital Image Processing*** by Rafael C. Gonzales and Richard E. Woods*
+ - **Detecting Text in Natural Scenes with Stroke Width Transform** *by Boris Epshtein, Eyal Ofek and Yonatan Wexler*
+ - **Digital Image Processing** *by Rafael C. Gonzales and Richard E. Woods*
 
